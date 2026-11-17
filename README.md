@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pas_flutter_18_november
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Pas-Flutter-Kelas-11-Semester-1
+>>>>>>> db9d72caea529d196883b357bc8636455e82961c
