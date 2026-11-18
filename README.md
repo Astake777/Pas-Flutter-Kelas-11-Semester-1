@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # pas_flutter_18_november
 
 A new Flutter project.
